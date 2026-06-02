@@ -1,0 +1,9 @@
+name: mempalace
+description: "MemPalace memory — semantic search over past conversations and knowledge"
+version: "1.0.0"
+author: Sam Russell
+license: MIT
+metadata:
+  hermes:
+    tags: [memory, mempalace, local]
+    memory_provider: true
